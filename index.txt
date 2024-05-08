@@ -1,0 +1,46 @@
+<section class="Project" id="Project">
+    <h2 class="heading">My <span>Projects</span></h2>
+    <div class="carousel-container">
+        <div class="carousel">
+            <!-- Project 1 -->
+            <div class="carousel-item">
+                <a href="https://github.com/ssom01-github/Digital_Signal_Processing" target="_blank" class="carousel-item"></a>
+                <img src="signal.png" alt="Project 1 Image" height="400" width="600"/>
+                <div class="project-info">
+                    <h3>Digital Signal Processing Simulator</h3>
+                    <p>This Python web appliaction allow users to visualize different wve signals with adjustable parameters</p>
+                    <div class="buttons">
+                        <a href="project1-link" target="_blank" class="project-link"><i class="fab fa-github"></i> Link</a>
+                        <a href="project1-demo" target="_blank" class="btn-card">Demo</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Add more carousel-item divs for additional projects -->
+            <div class="carousel-item">
+                <img src="leaf1.png" alt="Project 1 Image" height="400" width="600"/>
+                <div class="project-info">
+                    <h3>Leaf Diagnosis appliaction</h3>
+                    <p>Project 1 description goes here.</p>
+                    <div class="buttons">
+                        <a href="project1-link" target="_blank" class="project-link"><i class="fab fa-github"></i> Link</a>
+                        <a href="project1-demo" target="_blank" class="btn-card">Demo</a>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="MathGame.png" alt="Project 1 Image" height="400" width="600"/>
+                <div class="project-info">
+                    <h3>Project 1 Title</h3>
+                    <p>Project 1 description goes here.</p>
+                    <div class="buttons">
+                        <a href="project1-link" target="_blank" class="project-link"><i class="fab fa-github"></i> Link</a>
+                        <a href="project1-demo" target="_blank" class="btn-card">Demo</a>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
